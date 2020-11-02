@@ -50,4 +50,5 @@ object Scylla {
       tokenRangeAccumulator = tokenRangeAccumulator
     )(connector, SqlRowWriter.Factory)
 
+  }
 }
